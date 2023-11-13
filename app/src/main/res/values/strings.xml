@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LiveWebCam</string>
+    <string name="start">웹캠 시작하기</string>
+    <string name="end">웹캠 끄기</string>
+    <string name="emptyDrivers">연결된 디바이스가 없습니다</string>
+    <string name="cannotfindport">포트 넘버에 해당하는 포트가 존재하지 않습니다</string>
+    <string name="cannotfindDevice">디바이스 아이디에 해당하는 driver가 존재하지 않습니다</string>
+    <string name="cannotConnection">해당 디바이스와 연결할 수 없습니다</string>
+    <string name="permissionDenied">권한이 없습니다</string>
+    <string name="openFailed">연결에 실패하였습니다</string>
+    <string name="unSupportedParams">파라미터 세터를 지원하지 않습니다</string>
+</resources>
